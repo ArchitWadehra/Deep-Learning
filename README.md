@@ -9,3 +9,4 @@
 ### Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization  
 > Initialization  
 > Regularization  
+> Gradient Checking  
