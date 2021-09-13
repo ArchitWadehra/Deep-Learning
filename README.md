@@ -10,3 +10,4 @@
 > Initialization  
 > Regularization  
 > Gradient Checking  
+> Optimization Methods
