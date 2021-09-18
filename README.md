@@ -10,4 +10,5 @@
 > Initialization  
 > Regularization  
 > Gradient Checking  
-> Optimization Methods
+> Optimization Methods  
+> Tensorflow Introduction  
