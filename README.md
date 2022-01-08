@@ -12,3 +12,6 @@
 > Gradient Checking  
 > Optimization Methods  
 > Tensorflow Introduction  
+
+### Convolutional Neural Networks
+> Convolutional Model - Step by Step
