@@ -14,5 +14,5 @@
 > Tensorflow Introduction  
 
 ### Convolutional Neural Networks
-> Convolutional Model - Step by Step
+> Convolutional Model - Step by Step  
 > Convolutional Neural Networks - Application
