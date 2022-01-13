@@ -15,4 +15,5 @@
 
 ### Convolutional Neural Networks
 > Convolutional Model - Step by Step  
-> Convolutional Neural Networks - Application
+> Convolutional Neural Networks - Application   
+> Residual Networks  
