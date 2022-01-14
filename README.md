@@ -16,4 +16,5 @@
 ### Convolutional Neural Networks
 > Convolutional Model - Step by Step  
 > Convolutional Neural Networks - Application   
-> Residual Networks  
+> Residual Networks   
+> Transfer Learning with MobileNetV2  
