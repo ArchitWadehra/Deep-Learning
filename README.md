@@ -17,4 +17,5 @@
 > Convolutional Model - Step by Step  
 > Convolutional Neural Networks - Application   
 > Residual Networks   
-> Transfer Learning with MobileNetV2  
+> Transfer Learning with MobileNetV2   
+> Autonomous Driving - Car detection with YOLO  
