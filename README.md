@@ -19,3 +19,4 @@
 > Residual Networks   
 > Transfer Learning with MobileNetV2   
 > Autonomous Driving - Car detection with YOLO  
+> Image Segmentation with U-Net V2  
