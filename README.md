@@ -19,4 +19,6 @@
 > Residual Networks   
 > Transfer Learning with MobileNetV2   
 > Autonomous Driving - Car detection with YOLO  
-> Image Segmentation with U-Net V2  
+> Image Segmentation with U-Net V2   
+> Face Recognition  
+> Art Generation with Neural Style Transfer  
