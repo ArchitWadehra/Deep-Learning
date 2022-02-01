@@ -22,3 +22,7 @@
 > Image Segmentation with U-Net V2   
 > Face Recognition  
 > Art Generation with Neural Style Transfer  
+
+### Sequence Models
+> Recurrent Neural Network - Step by Step  
+> Character level language model  
