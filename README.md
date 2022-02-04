@@ -26,4 +26,5 @@
 ### Sequence Models
 > Recurrent Neural Network - Step by Step  
 > Character level language model    
-> Improvise a Jazz Solo with an LSTM Network
+> Improvise a Jazz Solo with an LSTM Network  
+> Operations on Word Vectors with GloVe  
