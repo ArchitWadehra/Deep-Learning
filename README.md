@@ -25,4 +25,5 @@
 
 ### Sequence Models
 > Recurrent Neural Network - Step by Step  
-> Character level language model  
+> Character level language model    
+> Improvise a Jazz Solo with an LSTM Network
