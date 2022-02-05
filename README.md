@@ -28,3 +28,4 @@
 > Character level language model    
 > Improvise a Jazz Solo with an LSTM Network  
 > Operations on Word Vectors with GloVe  
+> Emojify  
