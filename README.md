@@ -29,4 +29,5 @@
 > Improvise a Jazz Solo with an LSTM Network  
 > Operations on Word Vectors with GloVe  
 > Emojify  
-> Neural Machine Translation with Attention 
+> Neural Machine Translation with Attention  
+> Trigger Word Detection  
